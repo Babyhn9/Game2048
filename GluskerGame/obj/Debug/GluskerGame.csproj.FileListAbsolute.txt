@@ -1,0 +1,15 @@
+C:\myfolder\develop\projects\Charp\colleje\Glusker\GluskerGame\GluskerGame\obj\Debug\GluskerGame.csprojAssemblyReference.cache
+C:\myfolder\develop\projects\Charp\colleje\Glusker\GluskerGame\GluskerGame\obj\Debug\MainWindow.g.cs
+C:\myfolder\develop\projects\Charp\colleje\Glusker\GluskerGame\GluskerGame\obj\Debug\App.g.cs
+C:\myfolder\develop\projects\Charp\colleje\Glusker\GluskerGame\GluskerGame\obj\Debug\GluskerGame_MarkupCompile.cache
+C:\myfolder\develop\projects\Charp\colleje\Glusker\GluskerGame\GluskerGame\obj\Debug\GluskerGame_MarkupCompile.lref
+C:\myfolder\develop\projects\Charp\colleje\Glusker\GluskerGame\GluskerGame\bin\Debug\GluskerGame.exe.config
+C:\myfolder\develop\projects\Charp\colleje\Glusker\GluskerGame\GluskerGame\bin\Debug\GluskerGame.exe
+C:\myfolder\develop\projects\Charp\colleje\Glusker\GluskerGame\GluskerGame\bin\Debug\GluskerGame.pdb
+C:\myfolder\develop\projects\Charp\colleje\Glusker\GluskerGame\GluskerGame\obj\Debug\MainWindow.baml
+C:\myfolder\develop\projects\Charp\colleje\Glusker\GluskerGame\GluskerGame\obj\Debug\GluskerGame.g.resources
+C:\myfolder\develop\projects\Charp\colleje\Glusker\GluskerGame\GluskerGame\obj\Debug\GluskerGame.Properties.Resources.resources
+C:\myfolder\develop\projects\Charp\colleje\Glusker\GluskerGame\GluskerGame\obj\Debug\GluskerGame.csproj.GenerateResource.cache
+C:\myfolder\develop\projects\Charp\colleje\Glusker\GluskerGame\GluskerGame\obj\Debug\GluskerGame.csproj.CoreCompileInputs.cache
+C:\myfolder\develop\projects\Charp\colleje\Glusker\GluskerGame\GluskerGame\obj\Debug\GluskerGame.exe
+C:\myfolder\develop\projects\Charp\colleje\Glusker\GluskerGame\GluskerGame\obj\Debug\GluskerGame.pdb
